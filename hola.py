@@ -6,7 +6,7 @@ import time
 bot = telebot.TeleBot('6388514873:AAFkOzS34BRXKJAs7T2RT0tfVjwwJAvlIb0')
 
 # Daftar pengguna VVIP
-vvip_users = [5564352790]
+vvip_users = [5564352790, 5986329378 , 6349658718]
 
 # Variabel status serangan tls
 is_tls_running = False
